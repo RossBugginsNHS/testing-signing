@@ -1,4 +1,4 @@
 {
   "name": "Codespaces Development Container",
-  "image": "mcr.microsoft.com/devcontainers/base:noble"
+"image": "ghcr.io/nhsdigital/nhs-notify-devcontainer-loaded-codespaces:1.0.19"
 }
